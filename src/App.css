@@ -24,7 +24,7 @@ p {
   color: transparent;
   background: linear-gradient(rgba(166, 242, 255, 1) 0%, rgba(40, 186, 212, 1) 100%);
   background-clip: text;
-  margin: 50px 0;
+  margin: 30px 0;
 }
 
 .count_btn button {
@@ -33,7 +33,7 @@ p {
   background-color: #ddd;
   border-radius: 50%;
   font-size: 2rem;
-  margin: 0 10px;
+  margin: 0 5px;
   transition: all 0.2s;
   box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
